@@ -1,7 +1,7 @@
 ### Hi there 👋
 :smiley: # IVANILSON FELIX DE LIMA :grinning: <br>
 Tenho 47 anos, casado, moro em Santo André - SP
-Sou Ivanilson Felix de lima, tenho 47 anos, casado :family_woman_woman_girl:, moro em Santo André - SP,  sou estudante do curso de Front-end do programa Ford Enter, uma parceria entre a Ford Brasil, Ford Fund e SENAI São Paulo. Me formei em Analise de Sistemas em 2007 porem não trabalhei na area, agora estou retornando a area ao qual sou apaixonado e quero muito trabalhar nesta área.
+Sou Ivanilson Felix de lima, tenho 47 anos, casado :family_woman_woman_girl:, moro em Santo André - SP,  sou estudante do curso de Front-end do programa Ford Enter, uma parceria entre a Ford Brasil, Ford Fund e SENAI São Paulo. Me formei em Analise de Sistemas em 2007 porem não exereci a função, agora estou retornando ao qual sou apaixonado e quero muito trabalhar nesta área.
 
 <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaclYbPeDJl38s_6SMQ5wU8JfiKoFhZc3d2g&usqp=CAU" width = "20%">
 
