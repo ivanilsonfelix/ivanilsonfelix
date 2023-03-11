@@ -7,4 +7,4 @@ Eu sou Ivanilson Felix de lima, tenho 47 anos, casado :family_woman_woman_girl:,
 
   ##
 ![Snake animation](https://github.com/rick-png/rick-png/blob/output/github-contribution-grid-snake.svg)
-  ##
+
